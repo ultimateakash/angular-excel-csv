@@ -1,4 +1,6 @@
-# AngularExcelCsv
+# Import Export Excel/CSV In Angular
+
+<p align="center"><img src="https://github.com/ultimateakash/angular-excel-csv/blob/master/src/assets/angular-excel-csv.png"></p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
